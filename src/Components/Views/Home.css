@@ -1,0 +1,6 @@
+.ProductSection{
+    display: flex;
+    justify-content: center;
+    align-items: stretch;
+    align-content: space-around;
+}

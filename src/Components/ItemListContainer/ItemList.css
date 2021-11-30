@@ -1,0 +1,6 @@
+.cardConteiner{
+    display: flex;
+    float: left;
+    margin: auto;
+    justify-content: space-between;
+}

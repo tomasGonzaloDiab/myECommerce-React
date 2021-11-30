@@ -1,0 +1,12 @@
+.App {
+  text-align: center;
+}
+.ProductSection{
+  width: 95%;
+  margin: auto;
+  display: grid;
+  gap: 1rem;
+  grid-auto-rows: 45rem;
+  grid-template-columns: repeat(auto-fill, minmax(37rem, 1fr));
+  
+}

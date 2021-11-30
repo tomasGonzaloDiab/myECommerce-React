@@ -1,0 +1,33 @@
+.Nav{
+    display: flex;
+    background-color: rgb(68, 143, 99);
+    justify-content: space-between;
+    align-content: center;
+}
+.Nav .nav-pills{
+    width: 70%;
+    align-items: center;
+    cursor: pointer;
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+}
+.sections{
+    color: black;
+    font-size: 20px;
+    background-color: rgb(47, 150, 110);
+}
+.carritoContainer{
+    display: flex;
+    align-items: center;
+}
+.carrito{
+    width: 80%;
+}
+.numItems{
+    font-size: 18px;
+    color: blanchedalmond;
+    width: 40%;
+    border-radius: 45%;
+    background-color: crimson;
+}

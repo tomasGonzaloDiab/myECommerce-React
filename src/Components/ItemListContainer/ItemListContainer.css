@@ -1,0 +1,25 @@
+.userCard{
+    display: flex;
+    justify-content: center;
+    margin: 10px;
+    min-height: 560px;
+    border: 1px solid #010101;
+    box-shadow: 10px 10px 5px 0px rgba(0, 0, 0, 0.75);
+    background-color: #f7efe5;
+}
+.cardContent{
+    color: red;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.ImgCard{
+    min-height: 70%;
+    transition-duration: 0.3s;
+    padding-top: 2%;
+    cursor:zoom-in; 
+}
+.ImgCard:hover{
+    transform: scale(106.5%);
+}

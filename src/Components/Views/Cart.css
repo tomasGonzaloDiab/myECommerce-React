@@ -1,0 +1,41 @@
+.containerCart{
+
+    align-items: center !important;
+    margin: 2px !important;
+    border: 1px solid #010101 !important;
+    box-shadow: 10px 10px 5px 0px rgba(0, 0, 0, 0.75) !important;
+    background-color: #f7efe5 !important;
+}
+.containerCartElements{
+ display: grid  !important;
+}
+.containerCartImg{
+    height: 20rem;
+}
+.butttonClass{
+    width: 10% !important;
+    margin: auto !important;
+}
+.buttonClass2{
+    margin-top: 2rem !important;
+    margin: 2rem !important;
+}
+.formulario{
+    margin-top: 2rem !important;
+    font-size: 22px !important;
+    width: 80%;
+    margin:auto;
+    background-color: rgb(68, 143, 99) !important;
+    border: 1px solid #010101 !important;
+    box-shadow: 10px 10px 5px 0px rgba(0, 0, 0, 0.75) !important;
+
+}
+.containerEsVacio{
+    margin-top: 3rem;
+    font-size: 25px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.precioTotal{
+    font-size: 20px;
+    font-weight: 600;
+}
